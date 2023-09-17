@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Khubaib08
+- 👋 Hi, I’m @Khubaib Siddiqui
 - 👀 I’m interested in Web Develpment
 - 🌱 I’m currently learning web and mobile app development
 - 💞️ I’m looking to collaborate on utech digital education
